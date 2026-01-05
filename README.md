@@ -1,6 +1,7 @@
 # Chaos-To-Crystal
 Python implementations of the Pennes Bioheat Equation to model neural entropy reduction and the thermodynamic signature of insight.
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18154048.svg)](https://doi.org/10.5281/zenodo.18154048)
+
 Chaos to Crystal: The Physics of Realization
 
 This repository contains the source code and simulation scripts for the research paper "From Chaos to Crystal," which models cognitive "insight" as a thermodynamic phase transition.
